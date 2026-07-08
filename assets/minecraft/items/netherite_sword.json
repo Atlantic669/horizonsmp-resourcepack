@@ -21,6 +21,27 @@
 					"type": "minecraft:model",
 					"model": "horizonsmp:item/tenebre_scythe"
 				}
+			},
+			{
+				"threshold": 1003,
+				"model": {
+					"type": "minecraft:model",
+					"model": "horizonsmp:item/air"
+				}
+			},
+			{
+				"threshold": 1004,
+				"model": {
+					"type": "minecraft:model",
+					"model": "horizonsmp:item/feu"
+				}
+			},
+			{
+				"threshold": 1005,
+				"model": {
+					"type": "minecraft:model",
+					"model": "horizonsmp:item/chaos"
+				}
 			}
 		]
 	}

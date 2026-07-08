@@ -5,6 +5,9 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1001}, "model": "horizonsmp:item/lumiere"},
-		{"predicate": {"custom_model_data": 1002}, "model": "horizonsmp:item/tenebre_scythe"}
+		{"predicate": {"custom_model_data": 1002}, "model": "horizonsmp:item/tenebre_scythe"},
+		{"predicate": {"custom_model_data": 1003}, "model": "horizonsmp:item/air"},
+		{"predicate": {"custom_model_data": 1004}, "model": "horizonsmp:item/feu"},
+		{"predicate": {"custom_model_data": 1005}, "model": "horizonsmp:item/chaos"}
 	]
 }
