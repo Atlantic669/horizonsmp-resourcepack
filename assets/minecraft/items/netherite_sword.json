@@ -42,6 +42,20 @@
 					"type": "minecraft:model",
 					"model": "horizonsmp:item/chaos"
 				}
+			},
+			{
+				"threshold": 1006,
+				"model": {
+					"type": "minecraft:model",
+					"model": "horizonsmp:item/terre"
+				}
+			},
+			{
+				"threshold": 1007,
+				"model": {
+					"type": "minecraft:model",
+					"model": "horizonsmp:item/eau"
+				}
 			}
 		]
 	}
