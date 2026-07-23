@@ -1,0 +1,32 @@
+{
+  "music_disc.far": {
+    "sounds": [
+      { "name": "horizonsmp:records/delta_rune_lancer", "stream": true }
+    ],
+    "replace": true
+  },
+  "music_disc.mall": {
+    "sounds": [
+      { "name": "horizonsmp:records/free_money", "stream": true }
+    ],
+    "replace": true
+  },
+  "music_disc.stal": {
+    "sounds": [
+      { "name": "horizonsmp:records/metal_pipe", "stream": true }
+    ],
+    "replace": true
+  },
+  "music_disc.wait": {
+    "sounds": [
+      { "name": "horizonsmp:records/tiki_tiki", "stream": true }
+    ],
+    "replace": true
+  },
+  "music_disc.relic": {
+    "sounds": [
+      { "name": "horizonsmp:records/wide_putin_walking", "stream": true }
+    ],
+    "replace": true
+  }
+}
