@@ -28,5 +28,11 @@
       { "name": "horizonsmp:records/wide_putin_walking", "stream": true }
     ],
     "replace": true
+  },
+  "music_disc.strad": {
+    "sounds": [
+      { "name": "horizonsmp:records/hava_nagila", "stream": true }
+    ],
+    "replace": true
   }
 }
