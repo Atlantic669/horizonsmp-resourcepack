@@ -34,5 +34,11 @@
       { "name": "horizonsmp:records/hava_nagila", "stream": true }
     ],
     "replace": true
+  },
+  "music_disc.pigstep": {
+    "sounds": [
+      { "name": "horizonsmp:records/chaos_construct", "stream": true }
+    ],
+    "replace": true
   }
 }
