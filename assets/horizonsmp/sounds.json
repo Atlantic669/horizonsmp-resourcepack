@@ -1,44 +1,37 @@
 {
-  "music_disc.far": {
+  "records.lancer_theme": {
     "sounds": [
       { "name": "horizonsmp:records/delta_rune_lancer", "stream": true }
-    ],
-    "replace": true
+    ]
   },
-  "music_disc.mall": {
+  "records.free_money": {
     "sounds": [
       { "name": "horizonsmp:records/free_money", "stream": true }
-    ],
-    "replace": true
+    ]
   },
-  "music_disc.stal": {
+  "records.metal_pipe": {
     "sounds": [
       { "name": "horizonsmp:records/metal_pipe", "stream": true }
-    ],
-    "replace": true
+    ]
   },
-  "music_disc.wait": {
+  "records.tiki_tiki": {
     "sounds": [
       { "name": "horizonsmp:records/tiki_tiki", "stream": true }
-    ],
-    "replace": true
+    ]
   },
-  "music_disc.relic": {
+  "records.wide_putin_walking": {
     "sounds": [
       { "name": "horizonsmp:records/wide_putin_walking", "stream": true }
-    ],
-    "replace": true
+    ]
   },
-  "music_disc.strad": {
+  "records.hava_nagila": {
     "sounds": [
       { "name": "horizonsmp:records/hava_nagila", "stream": true }
-    ],
-    "replace": true
+    ]
   },
-  "music_disc.pigstep": {
+  "records.chaos_construct": {
     "sounds": [
       { "name": "horizonsmp:records/chaos_construct", "stream": true }
-    ],
-    "replace": true
+    ]
   }
 }
