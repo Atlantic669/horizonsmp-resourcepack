@@ -1,6 +1,6 @@
 {
   "providers": [
-    { "type": "bitmap", "file": "horizonsmp:font/logo.png", "height": 12, "ascent": 10, "chars": [""] },
+    { "type": "bitmap", "file": "horizonsmp:font/logo.png", "height": 18, "ascent": 14, "chars": [""] },
     { "type": "bitmap", "file": "horizonsmp:font/logo.png", "height": 18, "ascent": 16, "chars": [""] }
   ]
 }
