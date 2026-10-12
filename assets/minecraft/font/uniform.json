@@ -1,0 +1,18 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "horizonsmp:font/logo_tab.png",
+			"height": 18,
+			"ascent": 16,
+			"chars": ["\ue101"]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsmp:font/logo_scoreboard.png",
+			"height": 12,
+			"ascent": 10,
+			"chars": ["\ue102"]
+		}
+	]
+}
