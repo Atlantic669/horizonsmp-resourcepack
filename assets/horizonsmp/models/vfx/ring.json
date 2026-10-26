@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"t": "horizonsmp:vfx/ring",
-		"particle": "horizonsmp:vfx/ring"
+		"t": "horizonsmp:item/vfx/ring",
+		"particle": "horizonsmp:item/vfx/ring"
 	},
 	"elements": [
 		{

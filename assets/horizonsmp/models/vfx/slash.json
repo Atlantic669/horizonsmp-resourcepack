@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"t": "horizonsmp:vfx/slash",
-		"particle": "horizonsmp:vfx/slash"
+		"t": "horizonsmp:item/vfx/slash",
+		"particle": "horizonsmp:item/vfx/slash"
 	},
 	"elements": [
 		{
