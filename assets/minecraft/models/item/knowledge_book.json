@@ -1,0 +1,32 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/knowledge_book"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 7701
+			},
+			"model": "horizonsmp:vfx/slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7702
+			},
+			"model": "horizonsmp:vfx/ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7703
+			},
+			"model": "horizonsmp:vfx/circle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7704
+			},
+			"model": "horizonsmp:vfx/beam"
+		}
+	]
+}

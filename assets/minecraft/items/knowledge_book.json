@@ -1,0 +1,41 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"index": 0,
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/knowledge_book"
+		},
+		"entries": [
+			{
+				"threshold": 7701,
+				"model": {
+					"type": "minecraft:model",
+					"model": "horizonsmp:vfx/slash"
+				}
+			},
+			{
+				"threshold": 7702,
+				"model": {
+					"type": "minecraft:model",
+					"model": "horizonsmp:vfx/ring"
+				}
+			},
+			{
+				"threshold": 7703,
+				"model": {
+					"type": "minecraft:model",
+					"model": "horizonsmp:vfx/circle"
+				}
+			},
+			{
+				"threshold": 7704,
+				"model": {
+					"type": "minecraft:model",
+					"model": "horizonsmp:vfx/beam"
+				}
+			}
+		]
+	}
+}
