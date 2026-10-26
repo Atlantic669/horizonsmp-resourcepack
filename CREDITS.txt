@@ -1,0 +1,15 @@
+Horizon SMP - credits du resource pack
+
+Vaelor (modele 3D) : "Demonic Wingwalker" par CsDani50
+  https://sketchfab.com/3d-models/demonic-wingwalker-f8078f53631e403094920b05abebde17
+  Licence CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/) - recolore et anime pour Horizon SMP.
+
+Arbalete du Neant : "[Minecraft] FBS Upgraded Crossbow" par BasicModel - CC BY 4.0, retexture.
+
+Sons de Vaelor (CC0, domaine public, credit non obligatoire) :
+  - Rugissement / cri de mort : "CC0 Deep Monster Roar" par trazzz123 (OpenGameArt)
+  - Grondements : "80 CC0 creature SFX #2" par rubberduck (OpenGameArt)
+  - Battements d'ailes : "Large Wings Flap" par AntumDeluge (OpenGameArt)
+  - Souffle : "Synthesized fire sound effect" par Spring Spring (OpenGameArt)
+  - Impacts : "Impacts" par Eldritch Grim (OpenGameArt)
+  - Musiques de combat : "Hard Boss Battle 2" et "Heavy Boss Battle 1" par MintoDog (OpenGameArt)

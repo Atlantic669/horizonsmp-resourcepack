@@ -1,37 +1,134 @@
 {
   "records.lancer_theme": {
     "sounds": [
-      { "name": "horizonsmp:records/delta_rune_lancer", "stream": true }
+      {
+        "name": "horizonsmp:records/delta_rune_lancer",
+        "stream": true
+      }
     ]
   },
   "records.free_money": {
     "sounds": [
-      { "name": "horizonsmp:records/free_money", "stream": true }
+      {
+        "name": "horizonsmp:records/free_money",
+        "stream": true
+      }
     ]
   },
   "records.metal_pipe": {
     "sounds": [
-      { "name": "horizonsmp:records/metal_pipe", "stream": true }
+      {
+        "name": "horizonsmp:records/metal_pipe",
+        "stream": true
+      }
     ]
   },
   "records.tiki_tiki": {
     "sounds": [
-      { "name": "horizonsmp:records/tiki_tiki", "stream": true }
+      {
+        "name": "horizonsmp:records/tiki_tiki",
+        "stream": true
+      }
     ]
   },
   "records.wide_putin_walking": {
     "sounds": [
-      { "name": "horizonsmp:records/wide_putin_walking", "stream": true }
+      {
+        "name": "horizonsmp:records/wide_putin_walking",
+        "stream": true
+      }
     ]
   },
   "records.hava_nagila": {
     "sounds": [
-      { "name": "horizonsmp:records/hava_nagila", "stream": true }
+      {
+        "name": "horizonsmp:records/hava_nagila",
+        "stream": true
+      }
     ]
   },
   "records.chaos_construct": {
     "sounds": [
-      { "name": "horizonsmp:records/chaos_construct", "stream": true }
+      {
+        "name": "horizonsmp:records/chaos_construct",
+        "stream": true
+      }
+    ]
+  },
+  "vaelor.roar": {
+    "sounds": [
+      {
+        "name": "horizonsmp:vaelor/roar"
+      }
+    ]
+  },
+  "vaelor.growl": {
+    "sounds": [
+      {
+        "name": "horizonsmp:vaelor/growl1"
+      },
+      {
+        "name": "horizonsmp:vaelor/growl2"
+      },
+      {
+        "name": "horizonsmp:vaelor/growl3"
+      }
+    ]
+  },
+  "vaelor.flap": {
+    "sounds": [
+      {
+        "name": "horizonsmp:vaelor/flap1"
+      },
+      {
+        "name": "horizonsmp:vaelor/flap2"
+      },
+      {
+        "name": "horizonsmp:vaelor/flap3"
+      }
+    ]
+  },
+  "vaelor.breath": {
+    "sounds": [
+      {
+        "name": "horizonsmp:vaelor/breath"
+      }
+    ]
+  },
+  "vaelor.impact": {
+    "sounds": [
+      {
+        "name": "horizonsmp:vaelor/impact1"
+      },
+      {
+        "name": "horizonsmp:vaelor/impact2"
+      },
+      {
+        "name": "horizonsmp:vaelor/impact3"
+      }
+    ]
+  },
+  "vaelor.death": {
+    "sounds": [
+      {
+        "name": "horizonsmp:vaelor/death"
+      }
+    ]
+  },
+  "vaelor.music1": {
+    "sounds": [
+      {
+        "name": "horizonsmp:vaelor/music1",
+        "stream": true
+      }
+    ]
+  },
+  "vaelor.music2": {
+    "sounds": [
+      {
+        "name": "horizonsmp:vaelor/music2",
+        "stream": true
+      }
     ]
   }
 }
