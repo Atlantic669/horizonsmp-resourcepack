@@ -14,3 +14,6 @@ Sons de Vaelor (CC0, domaine public, credit non obligatoire) :
   - Souffle : "Synthesized fire sound effect" par Spring Spring (OpenGameArt)
   - Impacts : "Impacts" par Eldritch Grim (OpenGameArt)
   - Musiques de combat : "Hard Boss Battle 2" et "Heavy Boss Battle 1" par MintoDog (OpenGameArt)
+
+Barres de boss (cadres ailes/œil et ronces/gemme, barres segmentées, icônes) : dessins originaux HorizonSMP,
+générés par HorizonSMP/tools/bossbar/generate.js.
