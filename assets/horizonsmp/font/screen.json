@@ -1,0 +1,5 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "horizonsmp:font/screen_black.png", "height": 256, "ascent": 128, "chars": ["a"] }
+  ]
+}
