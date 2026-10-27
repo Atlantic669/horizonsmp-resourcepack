@@ -20,4 +20,4 @@ générés par HorizonSMP/tools/bossbar/generate.js.
 Trophee de Vaelor : tete du modele "Demonic Wingwalker" (CsDani50, CC BY 4.0) sur un socle original,
 genere par HorizonSMP/tools/vaelor/trophy.js.
 
-Tableaux "Ancienne Equipe de la Choppe du Roi" et "La Choppe du Roi", icone "!" des PNJ : images fournies par le serveur Horizon SMP.
+Tableaux "Ancienne Equipe de la Choppe du Roi", "La Choppe du Roi" et "Archive corrompue", icone "!" des PNJ : images fournies par le serveur Horizon SMP.
