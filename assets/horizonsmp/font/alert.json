@@ -1,0 +1,13 @@
+{
+ "providers": [
+  {
+   "type": "bitmap",
+   "file": "horizonsmp:font/alert.png",
+   "height": 20,
+   "ascent": 16,
+   "chars": [
+    "\ue040"
+   ]
+  }
+ ]
+}

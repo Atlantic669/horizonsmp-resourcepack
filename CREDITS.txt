@@ -19,3 +19,5 @@ Barres de boss (cadres ailes/œil et ronces/gemme, barres segmentées, icônes) 
 générés par HorizonSMP/tools/bossbar/generate.js.
 Trophee de Vaelor : tete du modele "Demonic Wingwalker" (CsDani50, CC BY 4.0) sur un socle original,
 genere par HorizonSMP/tools/vaelor/trophy.js.
+
+Tableaux "Le Conseil des Ombres" et "La Grange au soleil", icone "!" des PNJ : images fournies par le serveur Horizon SMP.
