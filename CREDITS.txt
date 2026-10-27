@@ -17,3 +17,5 @@ Sons de Vaelor (CC0, domaine public, credit non obligatoire) :
 
 Barres de boss (cadres ailes/œil et ronces/gemme, barres segmentées, icônes) : dessins originaux HorizonSMP,
 générés par HorizonSMP/tools/bossbar/generate.js.
+Trophee de Vaelor : tete du modele "Demonic Wingwalker" (CsDani50, CC BY 4.0) sur un socle original,
+genere par HorizonSMP/tools/vaelor/trophy.js.
