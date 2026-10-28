@@ -130,5 +130,13 @@
         "stream": true
       }
     ]
+  },
+  "intro.music": {
+    "sounds": [
+      {
+        "name": "horizonsmp:intro/intro_smp",
+        "stream": true
+      }
+    ]
   }
 }
