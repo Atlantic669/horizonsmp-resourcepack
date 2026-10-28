@@ -23,3 +23,6 @@ genere par HorizonSMP/tools/vaelor/trophy.js.
 Tableaux "Ancienne Equipe de la Choppe du Roi", "La Choppe du Roi" et "Archive corrompue", icone "!" des PNJ : images fournies par le serveur Horizon SMP.
 
 Musique de l intro : "Intro SMP", fournie par le serveur Horizon SMP.
+
+Arc du Neant : "Agate Red Bow Minecraft" par Staralighto - CC BY 4.0, recolore, poses de tir ajoutees.
+  https://sketchfab.com/3d-models/agate-red-bow-minecraft-aab1014dd71d4921b33df49ea2801626
