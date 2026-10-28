@@ -1,6 +1,31 @@
 {
-  "providers": [
-    { "type": "bitmap", "file": "horizonsmp:font/logo.png", "height": 18, "ascent": 14, "chars": [""] },
-    { "type": "bitmap", "file": "horizonsmp:font/logo.png", "height": 18, "ascent": 16, "chars": [""] }
-  ]
+ "providers": [
+  {
+   "type": "bitmap",
+   "file": "horizonsmp:font/logo.png",
+   "height": 18,
+   "ascent": 14,
+   "chars": [
+    "\ue000"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "horizonsmp:font/logo.png",
+   "height": 18,
+   "ascent": 16,
+   "chars": [
+    "\ue001"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "horizonsmp:font/logo.png",
+   "height": 10,
+   "ascent": 8,
+   "chars": [
+    "\ue002"
+   ]
+  }
+ ]
 }
