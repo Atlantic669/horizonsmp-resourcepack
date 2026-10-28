@@ -19,6 +19,60 @@
    ]
   },
   {
+   "type": "bitmap",
+   "file": "horizonsmp:font/bossbar_fire.png",
+   "height": 32,
+   "ascent": 8,
+   "chars": [
+    "\ue003"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "horizonsmp:font/bossbar_water.png",
+   "height": 32,
+   "ascent": 8,
+   "chars": [
+    "\ue004"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "horizonsmp:font/bossbar_air.png",
+   "height": 32,
+   "ascent": 8,
+   "chars": [
+    "\ue005"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "horizonsmp:font/bossbar_earth.png",
+   "height": 32,
+   "ascent": 8,
+   "chars": [
+    "\ue006"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "horizonsmp:font/bossbar_light.png",
+   "height": 32,
+   "ascent": 8,
+   "chars": [
+    "\ue007"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "horizonsmp:font/bossbar_darkness.png",
+   "height": 32,
+   "ascent": 8,
+   "chars": [
+    "\ue008"
+   ]
+  },
+  {
    "type": "space",
    "advances": {
     "\uf801": -1,
