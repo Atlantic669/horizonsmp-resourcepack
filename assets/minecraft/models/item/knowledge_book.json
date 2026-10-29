@@ -27,6 +27,18 @@
 				"custom_model_data": 7704
 			},
 			"model": "horizonsmp:vfx/beam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7705
+			},
+			"model": "horizonsmp:vfx/warn_ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7706
+			},
+			"model": "horizonsmp:vfx/warn_fill"
 		}
 	]
 }

@@ -35,6 +35,20 @@
 					"type": "minecraft:model",
 					"model": "horizonsmp:vfx/beam"
 				}
+			},
+			{
+				"threshold": 7705,
+				"model": {
+					"type": "minecraft:model",
+					"model": "horizonsmp:vfx/warn_ring"
+				}
+			},
+			{
+				"threshold": 7706,
+				"model": {
+					"type": "minecraft:model",
+					"model": "horizonsmp:vfx/warn_fill"
+				}
 			}
 		]
 	}
