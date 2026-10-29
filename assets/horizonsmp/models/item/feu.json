@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "horizonsmp:item/feu",
 		"particle": "horizonsmp:item/feu",
-		"fire": "minecraft:block/fire_0"
+		"fire": "horizonsmp:item/feu_flamme"
 	},
 	"elements": [
 		{
